@@ -1,0 +1,83 @@
+.div0{
+	
+	height: 605px;
+	background-color:#68cdd5;
+	margin:0;
+
+}
+.div1{
+	width:100% ;
+	/*border:1px solid blue;*/
+	/*background-color: red;*/
+	margin:0;
+	/*align-items:center;*/
+}
+.head{
+	height: 10%;
+	/*display:flex;*/
+	/*justify-content:center;*/
+/*	align-items:center;
+*/
+}
+
+.logo{
+	height: 15%;
+	text-align:center;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.foot{
+	height: 75%;
+	margin-top: 50px;
+	font-family:'微软雅黑','黑体',sans-serif;
+	font-size: 0.6rem;
+}
+
+#backwardImg{
+		
+	float: left;
+	/*height: 0;*/
+	width:30px;
+	margin-top: 5px;
+	margin-left: 5px
+	/*padding-bottom: 10%;*/
+	/*vertical-align: middle;*/
+
+}
+#logo1{
+	width: 100px
+}
+
+.foottext{
+	text-align:left;
+	color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+
+	/*margin-bottom: 50px*/
+
+}
+
+#footimgleft{
+	float:left;
+	text-align:center;
+	color:white;
+	margin-left: 15%;
+}
+
+#footimgright{
+	float:right;
+	text-align:center;
+	color:white;
+	margin-right: 15%;
+}
+
+.footimg{
+	width:50px;
+	margin-top: 80px;
+}
+.footimgtext{
+	margin-top: 15px;
+}
